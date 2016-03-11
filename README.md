@@ -15,7 +15,8 @@ Web前端开发工程师，主要职责是利用(X)HTML/CSS/JavaScript/Flash等�
 
 ### 软件152
 [03单超艺](https://github.com/Mometime/Mometime.github.io)
-[13廖定旺](https://github.com/1264673023/1264673023.github.io)  
+[13廖定旺](https://github.com/1264673023/1264673023.github.io) 
+[20卫银宇](https://github.com/znbys/znbys.github.io) 
 [23江俊杰](https://github.com/hyyqc/hyyqc.github.io)
 [31王志斌](https://github.com/connnot/connnot.github.io)
 [32吴昊](https://github.com/charygus/charygus.github.io)
