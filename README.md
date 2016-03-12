@@ -76,29 +76,11 @@
 
 | 学友  | 学友 | 学友 | 学友 | 学友 | 学友 | 学友 | 学友 | 学友 | 学友 | 
  |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
- |01|02|03|[04尹飞燕](https://github.com/Ysidm/zptcsoft.github.io/)|[05全凯俊](https://github.com/zptcwed/yyQKJ.github.io)|06|[07张铸涛](https://github.com/jhzzt/zptcsoft.github.io)|08|09|10|11|[12任军](https://github.com/Ghostrj/Ghostrj.github.io)|[13章宇凯](https://github.com/kaiyfy/kaiyfy.github.io)|[14潘佳琦](https://github.com/pjq123456/pjq123456.github.io) |15|16|[17郑天阳](https://github.com/zty451514243/zty451514243.github.io)|18|[19王永琪](https://github.com/29816768/29816768.github.io)|20|[21白逢喜](https://github.com/b526879840/b526879840.github.io)|[22夏远征](https://github.com/SBNMC/SBNMC.github.io)|23|[24曾丽丽](https://github.com/zilanhua/zilanhua.github.io)|25|26|[27王瑶]( https://github.com/blacklike/blacklike.github.io/)|[28王浩](https://github.com/a1172690960/a1172690960.github.io)|29|[30阮盛威](https://github.com/rsw0416/rsw0416.github.io)|[31徐道聪](https://github.com/xuxiaoshang/xuxiaoshang.github.io)|32|33|34|[35倪浩](https://github.com/NHLALALA/NHLALALA.github.io)|[36鲁好德](https://github.com/lhdzptc/zptcsoft.github.io)|[37张天一](https://github.com/SBCNM/SBCNM.github.io) 
-|38|[39刘晓辉]( https://github.com/liuxiaohui2060/liuxiaohui.github.io)|
+ |01|02|03|[04尹飞燕](https://github.com/Ysidm/zptcsoft.github.io/)|[05全凯俊](https://github.com/zptcwed/yyQKJ.github.io)|06|[07张铸涛](https://github.com/jhzzt/zptcsoft.github.io)|08|09|10|
+ |11|[12任军](https://github.com/Ghostrj/Ghostrj.github.io)|[13章宇凯](https://github.com/kaiyfy/kaiyfy.github.io)|[14潘佳琦](https://github.com/pjq123456/pjq123456.github.io) |15|16|[17郑天阳](https://github.com/zty451514243/zty451514243.github.io)|18|[19王永琪](https://github.com/29816768/29816768.github.io)|20|
+ |[21白逢喜](https://github.com/b526879840/b526879840.github.io)|[22夏远征](https://github.com/SBNMC/SBNMC.github.io)|23|[24曾丽丽](https://github.com/zilanhua/zilanhua.github.io)|25|26|[27王瑶]( https://github.com/blacklike/blacklike.github.io/)|[28王浩](https://github.com/a1172690960/a1172690960.github.io)|29|[30阮盛威](https://github.com/rsw0416/rsw0416.github.io)|
+ |[31徐道聪](https://github.com/xuxiaoshang/xuxiaoshang.github.io)|32|33|34|[35倪浩](https://github.com/NHLALALA/NHLALALA.github.io)|[36鲁好德](https://github.com/lhdzptc/zptcsoft.github.io)|[37张天一](https://github.com/SBCNM/SBCNM.github.io) |38|[39刘晓辉]( https://github.com/liuxiaohui2060/liuxiaohui.github.io)|
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### 软件152
