@@ -40,8 +40,11 @@
 我们可以看到，企业对岗位的需求非常明确，这个就是我么未来一年半的学习目标。我们将会利用《界面设计》、《网页设计与制作》、《web交互开发》、《移动开发平台》等几门课，逐步的走进前端开发的殿堂。
 
 利用《界面设计》帮您成为细节控，获得优秀网页的设计感，深入理解UI、UX。
+
 利用《网页设计与制作》帮您学习html+css， 熟悉 HTML5/CSS3 的标准并跨浏览器和平台的兼容性有深入理解， 能按照产品模型或框架有效进行 HTML/CSS/JavaScript 开发。
+
 利用《web交互开发》帮您学习原生javascript语言，逐步掌握object-oriented JavaScript, DOM manipulation，并同时学习jQuery，助力的您的交互开发。
+
 利用《移动开发平台》帮您熟悉移动web开发，了解Node.js、Angular.js、响应式设计等。
 
 ## 课程简介
@@ -70,25 +73,33 @@
 ## 学友链接
 
 ### 软件151
-[04尹飞燕](https://github.com/Ysidm/zptcsoft.github.io/)
-[05全凯俊](https://github.com/zptcwed/yyQKJ.github.io)
-[07张铸涛](https://github.com/jhzzt/zptcsoft.github.io)
-[12任军](https://github.com/Ghostrj/Ghostrj.github.io)
-[13章宇凯](https://github.com/kaiyfy/kaiyfy.github.io)
-[14潘佳琦](https://github.com/pjq123456/pjq123456.github.io) 
-[17郑天阳](https://github.com/zty451514243/zty451514243.github.io)
-[19王永琪](https://github.com/29816768/29816768.github.io)
-[21白逢喜](https://github.com/b526879840/b526879840.github.io)
-[22夏远征](https://github.com/SBNMC/SBNMC.github.io)
-[24曾丽丽](https://github.com/zilanhua/zilanhua.github.io)
-[27王瑶]( https://github.com/blacklike/blacklike.github.io/)
-[28王浩](https://github.com/a1172690960/a1172690960.github.io)
-[30阮盛威](https://github.com/rsw0416/rsw0416.github.io)
-[31徐道聪](https://github.com/xuxiaoshang/xuxiaoshang.github.io)
-[35倪浩](https://github.com/NHLALALA/NHLALALA.github.io)
-[36鲁好德](https://github.com/lhdzptc/zptcsoft.github.io)
-[37张天一](https://github.com/SBCNM/SBCNM.github.io) 
-[39刘晓辉]( https://github.com/liuxiaohui2060/liuxiaohui.github.io)
+
+| 学友  | 学友 | 学友 | 学友 | 学友 | 学友 | 学友 | 学友 | 学友 | 学友 | 
+ |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+ |01|02|03|[04尹飞燕](https://github.com/Ysidm/zptcsoft.github.io/)|[05全凯俊](https://github.com/zptcwed/yyQKJ.github.io)|06|[07张铸涛](https://github.com/jhzzt/zptcsoft.github.io)|08|09|10|11|[12任军](https://github.com/Ghostrj/Ghostrj.github.io)|[13章宇凯](https://github.com/kaiyfy/kaiyfy.github.io)|[14潘佳琦](https://github.com/pjq123456/pjq123456.github.io) |15|16|[17郑天阳](https://github.com/zty451514243/zty451514243.github.io)|18|[19王永琪](https://github.com/29816768/29816768.github.io)|20|[21白逢喜](https://github.com/b526879840/b526879840.github.io)|[22夏远征](https://github.com/SBNMC/SBNMC.github.io)|23|[24曾丽丽](https://github.com/zilanhua/zilanhua.github.io)|25|26|[27王瑶]( https://github.com/blacklike/blacklike.github.io/)|[28王浩](https://github.com/a1172690960/a1172690960.github.io)|29|[30阮盛威](https://github.com/rsw0416/rsw0416.github.io)|[31徐道聪](https://github.com/xuxiaoshang/xuxiaoshang.github.io)|32|33|34|[35倪浩](https://github.com/NHLALALA/NHLALALA.github.io)|[36鲁好德](https://github.com/lhdzptc/zptcsoft.github.io)|[37张天一](https://github.com/SBCNM/SBCNM.github.io) 
+|38|[39刘晓辉]( https://github.com/liuxiaohui2060/liuxiaohui.github.io)|
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 软件152
 [01余家宝](https://github.com/prtake/prtake.github.io) 
