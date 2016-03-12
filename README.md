@@ -1,14 +1,73 @@
-# 课程主页  
-课程主页
+# 课程主页 
+本课程以前端开发工程师为愿景，旨在培养学生的web前端开发能力，前端开发行业日新月异、发展迅速，因此在学习基础知识的同时开阔视野、学会学习才是重中之重，为达此目的，利用github开源此课程。
+希望可以更好地激发学习兴趣、更好地熟悉开发流程、更好地适应未来岗位需要。
 
-## 课程概述
-Web前端开发工程师，主要职责是利用(X)HTML/CSS/JavaScript/Flash等各种Web技术进行客户端产品的开发。完成客户端程序（也就是浏览器端）的开发，开发JavaScript以及Flash模块，同时结合后台开发技术模拟整体效果，进行丰富互联网的Web开发，致力于通过技术改善用户体验。
+## 课程愿景
+
+我们的目标是经过一系列前端方面课程的学习，能逐渐胜任**前端开发工程师**的工作要求，因此在认识课程之前，我们先来看一则招聘简章。
+来自于**上海鲸科信息科技有限公司**的**前端开发工程师**招聘：
+
+- 职位年薪：13W起，上不封顶
+- 招聘人数：若干
+- 职位职责：
+     - 如果你热爱尖端 Web 技术，如果你是一个追求美感的细节控，Strikingly会为你提供一个大施拳脚的空间。
+     - 在HTML, CSS, JavaScript 之上，你会使用 HAML、LESS、CoffeeScript、React+Flux、Angular.js来设计、开发和实现前端功能。
+     - 同时你也可以尽情发挥创造的热情，用美感和细节打造极致的用户体验。
+- 职位描述：
+    - 参与公司项目中的Web前端功能设计、开发和实现
+    - 使用 HTML5、CSS3、OOP JavaScript、Angular.js、Knockout.js 等最尖端 Web 技术开发 PC/Mobile 端应用
+    - 探索应用前端领域的新技术与新架构
+    - 与后端开发人员一起研讨技术实现方案，制定服务接口
+    - 与 UI 设计人员、后端开发人员等配合，高质量完成 Web 前端开发工作
+    - 快速学习成长，并迅速适应创业团队氛围
+- 职位要求：
+    - 对网站有优秀的设计感
+    - 对UI/UX有深入的理解
+    - 熟悉 HTML5/CSS3 的标准并跨浏览器和平台的兼容性有深入理解
+    - 精通object-oriented JavaScript, jQuery, DOM manipulation
+    - 能按照产品模型或框架有效进行 HTML/CSS/JavaScript 开发
+    - 能迅速熟悉新的前段数据库和架构
+    - 理解 Web 标准, 熟悉 Git 
+    - 相关专业本科或以上学历，或者同等专业经验
+    - 熟练的英语沟通能力
+- 加分项：
+    - 熟悉如何优化前端代码，使其更有效率并确保兼容性
+    - 熟悉任意 MV* 框架（Angular.js/Knockout.js/ Backbone/Ember等）
+    - 熟悉任何一门后端语言经验（Node.js/Ruby/Python/Php等）
+    - 移动 Web 开发经验
+    - 深刻理解 Web 标准, 熟练解决主流浏览器及不同版本的兼容性问题（IE、Chrome、Firefox)
+
+我们可以看到，企业对岗位的需求非常明确，这个就是我么未来一年半的学习目标。我们将会利用《界面设计》、《网页设计与制作》、《web交互开发》、《移动开发平台》等几门课，逐步的走进前端开发的殿堂。
+
+利用《界面设计》帮您成为细节控，获得优秀网页的设计感，深入理解UI、UX。
+利用《网页设计与制作》帮您学习html+css， 熟悉 HTML5/CSS3 的标准并跨浏览器和平台的兼容性有深入理解， 能按照产品模型或框架有效进行 HTML/CSS/JavaScript 开发。
+利用《web交互开发》帮您学习原生javascript语言，逐步掌握object-oriented JavaScript, DOM manipulation，并同时学习jQuery，助力的您的交互开发。
+利用《移动开发平台》帮您熟悉移动web开发，了解Node.js、Angular.js、响应式设计等。
+
+## 课程简介
+
+《网页设计与制作》的主要目标是让您学会使用html+css实现符合web标准、兼容主流浏览器的前端页面。
+
+课程主要内容包括：
+
+- web标准和浏览器
+- html5基础语法、 html5基础标签
+- css3的基础语法、css3实现样式与布局
+- 浏览器兼容性处理
+
+## 课程讲义（逐步上传）
+
 
 ## 课程资源
+1.  [w3school](http://www.w3school.com.cn/)
+2.  [css3手册在线版](http://css.doyoe.com/)，[css3手册下载](http://css.doyoe.com/css.chm)
+3.  [飞一样的编码-HBuilder, 请大家下载注册使用 ](http://dcloud.io/)
+4.  [史上最性感的编辑器-sublimetext](http://www.sublimetext.com/)，[插件](http://www.sublimetext.com/)， [学习资源](http://www.jianshu.com/p/d1b9a64e2e37)。
+5.  [sublime text常用插件集成破解版下载](http://pan.baidu.com/s/1sjkGenF)。
+6. [w3cfuns](http://www.w3cfuns.com/)
+7. [w3cplus](http://www.w3cplus.com/)
 
 ## 学友链接
-
-[00王海庆](https://github.com/zptcweb/zptcweb.github.io)  
 
 ### 软件151
 [04尹飞燕](https://github.com/Ysidm/zptcsoft.github.io/)
@@ -65,6 +124,11 @@ Web前端开发工程师，主要职责是利用(X)HTML/CSS/JavaScript/Flash等�
 [38刘毅梅](https://github.com/gcllym/gcllym.github.io)
 [39王丽娜](https://github.com/waseni/waseni.github.io)  
 [40童伟键](https://github.com/twjznb/twjznb.github.io) 
+
+## 课程活动
+
+## 加分快讯
+
 
 
 
