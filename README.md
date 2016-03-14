@@ -158,8 +158,8 @@
 [36陈兴博](https://github.com/anxiaohui/anxiaohui.github.io)
 [37杨虹](https://github.com/misshong/misshong.github.io)
 [38刘毅梅](https://github.com/gcllym/gcllym.github.io)
-[39王丽娜](https://github.com/waseni/waseni.github.io)  
-[40童伟键](https://github.com/twjznb/twjznb.github.io) 
+[39王丽娜](https://github.com/waseni/waseni.github.io)
+[40童伟键](https://github.com/twjznb/twjznb.github.io)
 41伍吉康
 
 ## 课程活动
