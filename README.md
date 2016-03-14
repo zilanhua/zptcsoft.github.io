@@ -164,10 +164,13 @@
 
 ## 课程活动
 1. 注册github账号，新建**用户名.github.io**仓库，确保可以在线浏览。
+
 2. **fork**课程官方[主页](https://github.com/zptcsoft/zptcsoft.github.io), 欢迎**watch**、**star**。修改readme.md文件，然后**Pull Request**回主项目，欢迎大家提交各种更改。
+
 3. 请在**Issues**里的作业贴提交作业，作业贴会定时关闭(一般一周左右关闭，关闭之后不能再提交作业）。
 
    欢迎大家在**Issues**里就课程进行*讨论*、*提问*。
+   
 4. 待续……
 
 ## 加分快讯
