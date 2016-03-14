@@ -68,9 +68,8 @@
 ## 课程资源
 1.  [w3school](http://www.w3school.com.cn/)
 2.  [css3手册在线版](http://css.doyoe.com/)，[css3手册下载](http://css.doyoe.com/css.chm)
-3.  [飞一样的编码-HBuilder, 请大家下载注册使用 ](http://dcloud.io/)
-4.  [史上最性感的编辑器-sublimetext](http://www.sublimetext.com/)，[安装步骤](soft/01install sublime_text.md)，**[sublime text常用插件集成版下载]()**, [学习资源](http://www.jianshu.com/p/d1b9a64e2e37)。
-5.  **GithubDesktop安装**，首先安装[**.net Framework 4.5**](http://www.microsoft.com/zh-cn/download/details.aspx?id=30653), 其次解压缩安装[**Github Desktop**]()。
+3.  [史上最性感的编辑器-sublimetext](http://www.sublimetext.com/)，[安装步骤](soft/01install sublime_text.md)，**[sublime text常用插件集成版下载]()**, [学习资源](http://www.jianshu.com/p/d1b9a64e2e37)。
+4.  **GithubDesktop安装**，首先安装[**.net Framework 4.5**](http://www.microsoft.com/zh-cn/download/details.aspx?id=30653), 其次解压缩安装[**Github Desktop**]()。
 
 ## 学友链接
 
@@ -165,13 +164,9 @@
 
 ## 课程活动
 1. 注册github账号，新建**用户名.github.io**仓库，确保可以在线浏览。
-
 2. **fork**课程官方[主页](https://github.com/zptcsoft/zptcsoft.github.io), 欢迎**watch**、**star**。修改readme.md文件，然后**Pull Request**回主项目，欢迎大家提交各种更改。
-
 3. 请在**Issues**里的作业贴提交作业，作业贴会定时关闭(一般一周左右关闭，关闭之后不能再提交作业）。
-
    欢迎大家在**Issues**里就课程进行*讨论*、*提问*。
-   
 4. 待续……
 
 ## 加分快讯
