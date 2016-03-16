@@ -178,13 +178,10 @@
 1. 等你来！
 
 ### 软件152
-<<<<<<< HEAD
 1. 37杨虹提问[问题](https://github.com/zptcsoft/zptcsoft.github.io/issues/112)，平时成绩加5分，同学们动起来，go! go!
 2. 36陈兴博创建资源[分享帖](https://github.com/zptcsoft/zptcsoft.github.io/issues/113)，平时成绩加5分，这就对了，yeah！
-=======
-1. 152-37杨虹提问[问题](https://github.com/zptcsoft/zptcsoft.github.io/issues/112)，平时成绩加5分，同学们动起来，go! go!
-2. 等你来
->>>>>>> origin/dev
+3. 等你哟
+
 
 
 
