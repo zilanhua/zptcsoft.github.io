@@ -173,7 +173,7 @@
 4. 
 
 ## 加分快讯
-
+1. 37杨虹提问[问题](https://github.com/zptcsoft/zptcsoft.github.io/issues/112)，平时成绩加5分，同学们动起来，go! go!
 
 
 
