@@ -67,7 +67,7 @@
 1.  [w3school](http://www.w3school.com.cn/)
 2.  [css3手册在线版](http://css.doyoe.com/)，[css3手册下载](http://css.doyoe.com/css.chm)
 3.  史上最性感的编辑器-[**sublimetext**](http://www.sublimetext.com/)，[安装步骤](soft/01install sublime_text.md)，**sublime text常用插件集成版** [百度网盘下载](http://pan.baidu.com/s/1nubND8l)、[课程资源下载](https://github.com/zptcsoft/zptcsoft.github.io/raw/dev/soft/01Sublime%20Text%202.0.2%20x64.rar), [学习资源](http://www.jianshu.com/p/d1b9a64e2e37)。
-4.  **GithubDesktop安装**，首先安装[**.net Framework 4.5**](http://www.microsoft.com/zh-cn/download/details.aspx?id=30653)或者[连线安装包](http://www.xiazaiba.com/html/6441.html)， 其次解压缩安装**Github Desktop**[百度网盘下载](http://pan.baidu.com/s/1i4bVR4T)、[课程资源下载](https://github.com/zptcsoft/zptcsoft.github.io/raw/dev/soft/02Github%20Desktop.rar)。
+4.  **GithubDesktop安装**，首先安装[**.net Framework 4.5**](http://www.microsoft.com/zh-cn/download/details.aspx?id=30653)或者[离线安装包](http://www.xiazaiba.com/html/6441.html)， 其次解压缩安装**Github Desktop**[百度网盘下载](http://pan.baidu.com/s/1i4bVR4T)、[课程资源下载](https://github.com/zptcsoft/zptcsoft.github.io/raw/dev/soft/02Github%20Desktop.rar)。
 
 ## 学友链接
 
@@ -170,10 +170,16 @@
 1. 每次作业视工作量分值不等，从5分到10分，每次作业贴会准时关闭，不再接受补交。
 2. 每次有意义的**Pull Request**加10分，欢迎大家提交**Pull Request**。
 3. 每次有意义**Issues**讨论加5分，欢迎大家创建**Issues**，回答**Issues**。
-4. 
+4. 待续
 
 ## 加分快讯
-1. 37杨虹提问[问题](https://github.com/zptcsoft/zptcsoft.github.io/issues/112)，平时成绩加5分，同学们动起来，go! go!
+
+### 软件151 
+1. 等你来！
+
+### 软件152
+1. 152-37杨虹提问[问题](https://github.com/zptcsoft/zptcsoft.github.io/issues/112)，平时成绩加5分，同学们动起来，go! go!
+2. 等你来
 
 
 
