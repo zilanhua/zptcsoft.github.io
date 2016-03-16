@@ -90,7 +90,7 @@
 15裘家威
 [16李玲巧](https://github.com/lilingqiao/lilingqiao.github.io)
 [17郑天阳](https://github.com/zty451514243/zty451514243.github.io)
-18范莎莎
+[18范莎莎](https://github.com/18158652021/18158652021.github.io)
 [19王永琪](https://github.com/29816768/29816768.github.io)
 [21白逢喜](https://github.com/b526879840/b526879840.github.io)
 
@@ -164,9 +164,16 @@
 2. **fork**课程官方[主页](https://github.com/zptcsoft/zptcsoft.github.io), 欢迎**watch**、**star**。修改readme.md文件，然后**Pull Request**回主项目，欢迎大家提交各种更改。
 3. 请在**Issues**里的作业贴提交作业，作业贴会定时关闭(一般一周左右关闭，关闭之后不能再提交作业）。
    欢迎大家在**Issues**里就课程进行*讨论*、*提问*。
-4. 作业贴将于下一次课上课之前关闭，请大家在课间完成作业提交。
+4. 作业贴将于下一次课上课之前关闭，请大家在课间完成作业提交，请大家保持作业批改记录。
+
+## 加分细则
+1. 每次作业视工作量分值不等，从5分到10分，每次作业贴会准时关闭，不再接受补交。
+2. 每次有意义的**Pull Request**加10分，欢迎大家提交**Pull Request**。
+3. 每次有意义**Issues**讨论加5分，欢迎大家创建**Issues**，回答**Issues**。
+4. 
 
 ## 加分快讯
+
 
 
 
