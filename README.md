@@ -5,7 +5,7 @@
 
 ## 课程愿景
 
-我们的目标是经过一系列前端方面课程的学习，能逐渐胜任**前端开发工程师**的工作要求，因此在认识课程之前，我们先来看一则招聘简章。
+我们的目标是经过一系列前端方面课程的学习学习再学习，能逐渐胜任**前端开发工程师**的工作要求，因此在认识课程之前，我们先来看一则招聘简章。
 
 来自于**上海鲸科信息科技有限公司**的**前端开发工程师**招聘：
 
@@ -67,7 +67,7 @@
 1.  [w3school](http://www.w3school.com.cn/)
 2.  [css3手册在线版](http://css.doyoe.com/)，[css3手册下载](http://css.doyoe.com/css.chm)
 3.  史上最性感的编辑器-[**sublimetext**](http://www.sublimetext.com/)，[安装步骤](soft/01install sublime_text.md)，**sublime text常用插件集成版** [百度网盘下载](http://pan.baidu.com/s/1nubND8l)、[课程资源下载](https://github.com/zptcsoft/zptcsoft.github.io/raw/dev/soft/01Sublime%20Text%202.0.2%20x64.rar), [学习资源](http://www.jianshu.com/p/d1b9a64e2e37)。
-4.  **GithubDesktop安装**，首先安装[**.net Framework 4.5**](http://www.microsoft.com/zh-cn/download/details.aspx?id=30653), 其次解压缩安装**Github Desktop**[百度网盘下载](http://pan.baidu.com/s/1i4bVR4T)、[课程资源下载](https://github.com/zptcsoft/zptcsoft.github.io/raw/dev/soft/02Github%20Desktop.rar)。
+4.  **GithubDesktop安装**，首先安装[**.net Framework 4.5**](http://www.microsoft.com/zh-cn/download/details.aspx?id=30653)或者[离线安装包](http://www.xiazaiba.com/html/6441.html)， 其次解压缩安装**Github Desktop**[百度网盘下载](http://pan.baidu.com/s/1i4bVR4T)、[课程资源下载](https://github.com/zptcsoft/zptcsoft.github.io/raw/dev/soft/02Github%20Desktop.rar)。
 
 ## 学友链接
 
@@ -90,7 +90,7 @@
 15裘家威
 [16李玲巧](https://github.com/lilingqiao/lilingqiao.github.io)
 [17郑天阳](https://github.com/zty451514243/zty451514243.github.io)
-18范莎莎
+[18范莎莎](https://github.com/18158652021/18158652021.github.io)
 [19王永琪](https://github.com/29816768/29816768.github.io)
 [21白逢喜](https://github.com/b526879840/b526879840.github.io)
 
@@ -131,7 +131,7 @@
 
 [10周冰婕](https://github.com/zptczbj/zptczbj.github.io)
 [11陈章文](https://github.com/saber12458/saber12458.github.io) 
-[12胡森方](https://github.com/794710545/zptcsoft.github.io)
+[12胡森方](https://github.com/794710545/794710545.github.io)
 [13廖定旺](https://github.com/1264673023/1264673023.github.io)
 14沈锋
 [16唐宁](https://github.com/s404/s404.github.io)
@@ -157,16 +157,29 @@
 [38刘毅梅](https://github.com/gcllym/gcllym.github.io)
 [39王丽娜](https://github.com/waseni/waseni.github.io)
 [40童伟键](https://github.com/twjznb/twjznb.github.io)
-41伍吉康
+[41伍吉康](https://github.com/121243380/121243380.github.io)
 
 ## 课程活动
 1. 注册github账号，新建**用户名.github.io**仓库，确保可以在线浏览。
 2. **fork**课程官方[主页](https://github.com/zptcsoft/zptcsoft.github.io), 欢迎**watch**、**star**。修改readme.md文件，然后**Pull Request**回主项目，欢迎大家提交各种更改。
-3. 请在**Issues**里的作业贴提交作业，作业贴会定时关闭(一般一周左右关闭，关闭之后不能再提交作业）。
+3. 请在**Issues**里的作业贴提交作业，作业贴会定时关闭。
    欢迎大家在**Issues**里就课程进行*讨论*、*提问*。
-4. 待续……
+4. 作业贴将于下一次课上课之前关闭，请大家在课间完成作业提交，请大家保持作业批改记录。
+
+## 加分细则
+1. 每次作业视工作量分值不等，从5分到10分，每次作业贴会准时关闭，不再接受补交。
+2. 每次有意义的**Pull Request**加10分，欢迎大家提交**Pull Request**。
+3. 每次有意义**Issues**讨论加5分，欢迎大家创建**Issues**，回答**Issues**。
+4. 待续
 
 ## 加分快讯
+
+### 软件151 
+1. 等你来！
+
+### 软件152
+1. 37杨虹提问[问题](https://github.com/zptcsoft/zptcsoft.github.io/issues/112)，平时成绩加5分，同学们动起来，go! go!
+2. 36陈兴博创建资源[分享帖](https://github.com/zptcsoft/zptcsoft.github.io/issues/113)，平时成绩加5分，这就对了，yeah！
 
 
 
