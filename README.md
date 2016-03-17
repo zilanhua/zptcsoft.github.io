@@ -186,12 +186,6 @@
 1. 37杨虹提问[问题](https://github.com/zptcsoft/zptcsoft.github.io/issues/112)，平时成绩加5分，同学们动起来，go! go!
 2. 36陈兴博创建资源[分享帖](https://github.com/zptcsoft/zptcsoft.github.io/issues/113)，平时成绩加5分，这就对了，yeah！
 3. 24郑爱萍提问[问题](https://github.com/zptcsoft/zptcsoft.github.io/issues/115), 平时成绩加5分。大家一起来盖楼！！
-
-
-### 软件152
-1. 37杨虹提问[问题](https://github.com/zptcsoft/zptcsoft.github.io/issues/112)，平时成绩加5分，同学们动起来，go! go!
-2. 36陈兴博创建资源[分享帖](https://github.com/zptcsoft/zptcsoft.github.io/issues/113)，平时成绩加5分，这就对了，yeah！
-3. 24郑爱萍提问[问题](https://github.com/zptcsoft/zptcsoft.github.io/issues/115), 平时成绩加5分。大家一起来盖楼！！
 4. come on!
 
 
